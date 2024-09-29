@@ -20,7 +20,7 @@ function App() {
 
   return (
     <>
-      <div className="header flex">Image Search App <img className="w-12" src=".\public\animated-img.gif"/></div>
+      <div className="header flex">Image Search App <img className="w-12" src=".\animated-img.gif"/></div>
       <div className="search flex gap-2 w-full items-center content-center justify-center p-5">
         <input
           className="search-bar p-2"
